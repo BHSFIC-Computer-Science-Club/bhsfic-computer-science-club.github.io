@@ -144,7 +144,7 @@
 				enter: function() {
 
 					// Activate section.
-						$(this).removeClass('inactive');
+						$(this).removeClass('active');
 
 				}
 			})
